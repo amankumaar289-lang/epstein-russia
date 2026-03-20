@@ -560,7 +560,7 @@ if (fs.existsSync(frontendPath)) {
     app.use(express.static(frontendPath));
 
     // SPA: все не-API маршруты → index.html
-    app.get('*', (req, res) => {
+    app.get('/{*path}', (req, res) => {
         if (req.path.startsWith('/api') || req.path.startsWith('/health')) {
             return res.status(404).json({ error: 'Not found' });
         }
