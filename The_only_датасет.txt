@@ -1,0 +1,101 @@
+Связи
+
+id	from	to	type	description_ru	date	source	strength
+r001	epstein	churkin	meeting	Чуркин периодически встречался с Эпштейном в его особняке в Нью-Йорке.	2010-2016	Email, iMessage, DoJ documents	4
+r002	epstein	churkin	intermediary	Эпштейн помог трудоустроить сына Чуркина Максима на стажировку в фонд Boothbay Fund Management.	2014	Email correspondence	4
+r003	churkin	epstein	gift	Чуркин подарил Эпштейну фотографию "Men in diplomacy" с собой и Лавровым.	2015	Email, Summary PDF	2
+r004	epstein	lavrov	contact_attempt	Эпштейн просил посредников организовать встречу с Лавровым.	2014	Email to Jagland	3
+r005	epstein	belyakov	business_contact	Беляков помогал Эпштейну оформить российскую визу.	2013-2014	Email, Giuffre v. Maxwell evidence	4
+r006	epstein	simanovskiy	contact_attempt	Симановский был в wish list Эпштейна для встреч в Москве.	2014	Email to Belyakov	2
+r007	epstein	storchak	contact_attempt	Сторчак упоминался как чиновник для встречи.	2014	Email to Belyakov	2
+r008	epstein	gref	contact_attempt	Эпштейн пытался выйти на Грефа через посредников.	2014	Summary PDF	1
+r009	epstein	putin	contact_attempt	Эпштейн просил Т. Ягланда передать Путину предложение о встрече.	2016-09	EFTA00817655.pdf	2
+r010	epstein	vavilov	property	Вавилов лично осматривал особняк Эпштейна в Нью-Йорке с целью покупки.	2012-03	EFTA01740370.pdf	4
+r011	jagland	medvedev	meeting	Турбьёрн Ягланд в письме Эпштейну сообщал, что едет на встречу с Медведевым в Москву.	2018-06	EFTA00997059.pdf	3
+r012	epstein	shoigu	indirect	Упоминание в новостных сводках ФБР и Bloomberg касательно военных учений.	2014	News Briefings	1
+r013	greg_brown	chaly	indirect	Упоминание Чалого в новостной рассылке для Эпштейна.	2014-09	EFTA01159891.pdf	1
+r014	epstein	navalny	indirect	Упоминания об отравлении и протестах в архиве Эпштейна.	2011, 2020	EFTA00136558.pdf	1
+r015	doronin	epstein	business_deal	Обсуждение инвестиций в недвижимость в Москве (ЖК Легенда Цветного).	2010-2011	EFTA-00900305.pdf	4
+r016	doronin	epstein	travel	Совместный перелет на частном самолете, обсуждение визовой поддержки.	2010-2011	EFTA-01830092.pdf	4
+r017	epstein	drokova	business_deal	Эпштейн оплачивал отели и дарил подарки (сумка Prada) Дроковой.	2017	EFTA-02233814.pdf	4
+r018	drokova	epstein	intermediary	Дрокова организовывала встречи Эпштейна с лидерами IT-индустрии.	2017	EFTA-02225420.pdf	4
+r019	epstein	jagland	meeting	Ягланд — ключевой канал Эпштейна выхода на Кремль. Активная переписка.	2016-2018	EFTA02553482.pdf	4
+r020	jagland	putin	intermediary	Ягланд лично встречался с Путиным, Лавровым и Медведевым.	2016-2018	EFTA00997059.pdf	3
+r021	epstein	greg_brown	business_contact	Грег Браун присылал Эпштейну регулярную аналитику «Weekend Reading».	2014	EFTA01159891.pdf	2
+r022	boris_nikolic	epstein	business_contact	Николич передавал Эпштейну информацию о российской оппозиции (Пономарёв).	2015	EFTA-02360267.pdf	3
+r023	sultan_bin_sulayem	epstein	business_deal	Султан обсуждал с Эпштейном сделку ОАЭ–Россия.	2017-07	EFTA-02343096.pdf	4
+r024	sultan_bin_sulayem	putin	intermediary	Султан получил приглашение из офиса Путина для обсуждения сделки.	2017	EFTA-02343096.pdf	3
+r025	rod_larsen	epstein	intermediary	Род-Ларсен снабжал Эпштейна аналитикой по Путину и Крыму.	2012-2014	Email рассылки IPI	3
+r026	molodtsov	epstein	business_contact	Молодцов выставлял Эпштейну счета за проживание Дроковой.	2017	EFTA-02233814.pdf	2
+r027	doronin	naomi_campbell	meeting	Доронин и Кэмпбелл — пара. Совместные мероприятия с Эпштейном.	2009-2014	EFTA-00980653.pdf	3
+r028	doronin	epstein	meeting	Совместная новогодняя вечеринка в Сен-Барте. Присутствовали A-Rod и Гагосян. Подтверждает продолжение общения спустя 3 года после деловых переговоров.	2014	EFTA00980653.pdf	3
+r029	churkin	lavrov	meeting	Чуркин и Лавров на совместном фото "Men in diplomacy", подаренном Эпштейну.	2015	EFTA02553482.pdf	4
+r030	jagland	lavrov	meeting	Ягланд обсуждал с Лавровым передачу инсайта от Эпштейна.	2018	EFTA02553482.pdf	3
+r031	jagland	medvedev	meeting	Ягланд лично встречался с Медведевым в Москве.	2018	EFTA00997059.pdf	3
+r032	epstein	jed_garfield	business_contact	Джед Гарфилд — риелтор Эпштейна, организовал просмотр особняка для Вавилова.	2011	EFTA01740370.pdf	4
+r033	jed_garfield	vavilov	intermediary	Гарфилд привел Вавилова как потенциального покупателя особняка Эпштейна.	2011	EFTA01740370.pdf	4
+
+++++
+
+Документы
+
+id	title_ru	date	excerpt_ru	source	tags
+d001	Email о помощи сыну Чуркина	2014	Эпштейн помогал устроить сына Чуркина, Максима, на стажировку.	Email correspondence	russia,churkin,employment,fund
+d002	Переписка с Беляковым о визите в Москву	2013-2014	Беляков помогал Эпштейну оформить российскую визу.	Email, evidence	russia,belyakov,visa,moscow
+d003	Wish List для встреч в Москве	2014	Список желаний: Симановский, Сторчак. Тема: банки и крипто.	Email to Belyakov	russia,finance
+d004	Email о просмотре дома Вавиловым	2011-2012	Вавилов может выписать чек на $100 млн за дом Эпштейна.	James Meiskin to Epstein	russia,vavilov,realestate
+d005	Переписка о проекте Доронина	2010-12-13	I really want to see your project first hand.	Epstein to Doronin	russia,doronin,investment
+d006	Счёт на расходы Дроковой	2017-12	Эпштейн возмещает Дроковой расходы на отель: $7,387.48	Email [efta-02233814]	russia,drokova,expenses
+d007	Подарок для Дроковой (Prada)	2017	Buy Prada handbag, send to Masha Drokova	Epstein to Groff	russia,drokova,gift
+d008	Организация встречи через Дрокову	2017-10	Дрокова организует встречу Эпштейна с CEO Kernel.	[efta-02225420]	russia,drokova,tech
+d009	Инсайт для Лаврова через Путина	2018-06-24	Лавров может получить инсайт от разговора со мной.	Jagland to Epstein	russia,putin,lavrov,jagland
+d010	Встреча Ягланда с Путиным	2016-09-21	К Путину в декабре. Обсужу детали с Лавровым.	Jagland to Epstein	russia,putin,lavrov
+d011	Встреча с «Тройкой» в Москве	2018-06-17	Я еду прямо из Москвы, встречаюсь с Путиным, Лавровым и Медведевым.	Jagland to Epstein	russia,moscow,putin,lavrov,medvedev
+d012	Визит Вавилова в особняк	2011-11-09	Джед Гарфилд приведет Вавилова в дом завтра.	Lesley Groff	russia,vavilov,realestate
+d013	Отказ от цены Вавилова	2012-03-29	Эпштейн отклонил три предложения в $200 млн.	Epstein to Groff	russia,vavilov,negotiation
+d014	Назначение Чалого в Севастополе	2014-09	Чалый назначен де-факто мэром Севастополя.	Greg Brown Reading	russia,chaly,crimea
+d015	Отравление Навального (ФБР)	2020	Немецкие врачи ищут информацию об отравлении Навального.	FBI News Briefing	russia,navalny,fbi
+d016	Сделка ОАЭ–Россия	2017-07	Султан Ахмед бин Сулайем обсуждает с Эпштейном стратегическую сделку.	Sultan to Epstein	russia,sultan,putin,deal
+d017	Геополитика Род-Ларсена	2014	Аналитика по Крыму и реакция Путина для Эпштейна.	IPI Newsletter	russia,crimea,rod_larsen
+d018	Вечеринка в Сен-Барте с Дорониным	2014-01	Эпштейн и Доронин на новогодней вечеринке в Сен-Барте.	EFTA00980653.pdf	russia,doronin,travel
+
+++++
+
+Российские организации
+
+id	name_en	name_ru	type	role	mentions	first_year	photo_url	bio_short
+epstein	Jeffrey Epstein	Джеффри Эпштейн	person	Financier	9999	2009	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jeffrey_Epstein_mug_shot.jpg/330px-Jeffrey_Epstein_mug_shot.jpg	Американский финансист. Центральная фигура сети.
+churkin	Vitaly Churkin	Виталий Чуркин	person	Diplomat	1213	2010	https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vitaly_Churkin_2013-09-24.jpg/330px-Vitaly_Churkin_2013-09-24.jpg	Постпред РФ при ООН (2006-2017). Ключевой контакт.
+lavrov	Sergey Lavrov	Сергей Лавров	person	Minister	138	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sergey_Lavrov_%282024-01-23%29.jpg/330px-Sergey_Lavrov_%282024-01-23%29.jpg	Министр иностранных дел РФ.
+belyakov	Sergey Belyakov	Сергей Беляков	person	Official	162	2013	https://upload.wikimedia.org/wikipedia/commons/6/69/Rustam_Minnikhanov_and_Sergey_Belyakov_%282015-07-21%29_03.jpg	Бывший замминистра экономического развития РФ.
+simanovskiy	Aleksey Simanovskiy	Алексей Симановский	person	Banker	4	2014	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcHTJ_joA725r6i4rh_EoNCIqsmXxxm1ORw&s	Бывший первый зампред ЦБ РФ.
+storchak	Sergey Storchak	Сергей Сторчак	person	Official	5	2014	https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%A1%D1%82%D0%BE%D1%80%D1%87%D0%B0%D0%BA_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.jpg	Замминистра финансов РФ.
+gref	German Gref	Герман Греф	person	Banker	3	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_%D0%93%D1%80%D0%B5%D1%84_%D0%BD%D0%B0_%D0%9F%D0%9C%D0%AD%D0%A4-2023_%28cropped%29.jpg/330px-%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_%D0%93%D1%80%D0%B5%D1%84_%D0%BD%D0%B0_%D0%9F%D0%9C%D0%AD%D0%A4-2023_%28cropped%29.jpg	Глава Сбербанка.
+putin	Vladimir Putin	Владимир Путин	person	President	990	2012	https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vladimir_Putin_%282024-05-07%29.jpg/330px-Vladimir_Putin_%282024-05-07%29.jpg	Президент Российской Федерации.
+vavilov	Andrey Vavilov	Андрей Вавилов	person	Businessman	20	2011	https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Andrey_Vavilov_%282016-11-24%29_03_%28cropped%29.jpg/330px-Andrey_Vavilov_%282016-11-24%29_03_%28cropped%29.jpg	Предприниматель, бывший замминистра финансов РФ.
+medvedev	Dmitry Medvedev	Дмитрий Медведев	person	Politician	78	2012	https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dmitry_Medvedev_%282023-01-20%29.jpg/330px-Dmitry_Medvedev_%282023-01-20%29.jpg	Заместитель председателя Совбеза РФ.
+shoigu	Sergei Shoigu	Сергей Шойгу	person	Minister	10	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sergei_Shoigu_%282024-05-09%29.jpg/330px-Sergei_Shoigu_%282024-05-09%29.jpg	Секретарь Совета Безопасности РФ.
+chaly	Aleksey Chaly	Алексей Чалый	person	Politician	1	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alexey_Chaly_%28cropped%29.jpeg/330px-Alexey_Chaly_%28cropped%29.jpeg	«Народный мэр» Севастополя.
+navalny	Alexei Navalny	Алексей Навальный	person	Activist	39	2011	https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Alexey_Navalny_2017.jpg/330px-Alexey_Navalny_2017.jpg	Российский оппозиционный лидер.
+doronin	Vladislav Doronin	Владислав Доронин	person	Developer	30	2009	https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vladislav_Doronin_2014.jpg/330px-Vladislav_Doronin_2014.jpg	Основатель Capital Group.
+drokova	Maria Drokova	Мария Дрокова	person	Investor	30	2017	https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Masha_Drokova_2018.jpg/330px-Masha_Drokova_2018.jpg	Венчурный инвестор.
+jagland	Thorbjorn Jagland	Турбьёрн Ягланд	person	Diplomat	85	2016	https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Thorbjorn_Jagland_2015.jpg/330px-Thorbjorn_Jagland_2015.jpg	Генсек Совета Европы (2009-2019).
+greg_brown	Greg Brown	Грег Браун	person	Analyst	15	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Greg_Brown_%28businessman%29.jpg/330px-Greg_Brown_%28businessman%29.jpg	Аналитик, советник Эпштейна.
+boris_nikolic	Boris Nikolic	Борис Николич	person	Investor	5	2015	https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Boris_Nikolic_at_TechCrunch_Disrupt.jpg/330px-Boris_Nikolic_at_TechCrunch_Disrupt.jpg	Венчурный инвестор.
+sultan_bin_sulayem	Sultan bin Sulayem	Султан бин Сулайем	person	Sovereign	10	2015	https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sultan_Ahmed_bin_Sulayem.jpg/330px-Sultan_Ahmed_bin_Sulayem.jpg	Глава DP World.
+rod_larsen	Terje Rød-Larsen	Терье Род-Ларсен	person	Diplomat	50	2012	https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Terje_R%C3%B8d-Larsen_%28cropped%29.jpg/330px-Terje_R%C3%B8d-Larsen_%28cropped%29.jpg	Директор Международного института мира (IPI).
+molodtsov	Yury Molodtsov	Юрий Молодцов	person	Assistant	3	2017		Ассистент Маши Дроковой.
+naomi_campbell	Naomi Campbell	Наоми Кэмпбелл	person	Model	15	2009	https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Naomi_Campbell_Cannes_2014.jpg/330px-Naomi_Campbell_Cannes_2014.jpg	Супермодель, связующее звено.
+jed_garfield	Jed Garfield	Джед Гарфилд	person	Realtor	5	2011	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-M6L7W-vGat6UyxKqN8B9h_d0yFvRjVvPw&s	Риелтор Эпштейна в Нью-Йорке.
+
+++++
+
+Таймлайн: year	event_ru	related_people	related_docs
+2010	Первые контакты с Чуркиным и Дорониным	epstein,churkin,doronin	d001,d018
+2011	Вавилов осматривает особняк Эпштейна через Джеда Гарфилда	epstein,vavilov,jed_garfield	d004,d012,d013
+2013	Беляков организует визит Эпштейна в Москву	epstein,belyakov	d002
+2014	Wish List: Эпштейн планирует встречи с чиновниками и банкирами РФ	epstein,simanovskiy,storchak,gref	d003
+2015	Чуркин дарит Эпштейну фото "Men in diplomacy"	churkin,epstein,lavrov	d009
+2016	Ягланд передает Путину предложение Эпштейна о встрече	epstein,putin,jagland	d010
+2017	Сделка ОАЭ–Россия: Султан бин Сулайем обсуждает проект с Эпштейном	epstein,sultan_bin_sulayem,putin	d016
+2018	Ягланд встречается с «Тройкой» (Путин, Лавров, Медведев)	jagland,putin,lavrov,medvedev	d011
