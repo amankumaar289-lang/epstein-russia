@@ -4,13 +4,13 @@
   "builds": [
     {
       "src": "server.cjs",
-      "use": "@vercel/node"
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": ["dataset.txt"]
+      }
     }
   ],
   "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "server.cjs"
-    }
+    { "src": "/(.*)", "dest": "server.cjs" }
   ]
 }
