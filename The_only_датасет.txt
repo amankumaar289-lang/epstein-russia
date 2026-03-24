@@ -87,7 +87,6 @@ rod_larsen	Terje Rød-Larsen	Терье Род-Ларсен	person	Diplomat	50	2
 molodtsov	Yury Molodtsov	Юрий Молодцов	person	Assistant	3	2017	/photos/uri_molodcov.jpg	Ассистент Маши Дроковой.
 naomi_campbell	Naomi Campbell	Наоми Кэмпбелл	person	Model	15	2009	/photos/Naomi_Kampbell.jpg	Супермодель, связующее звено.
 jed_garfield	Jed Garfield	Джед Гарфилд	person	Realtor	5	2011	/photos/jed_garfield.jpg	Риелтор Эпштейна в Нью-Йорке.
-
 ++++
 
 Таймлайн: year	event_ru	related_people	related_docs
