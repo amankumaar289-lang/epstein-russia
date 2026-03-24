@@ -31,10 +31,9 @@ app.use((req, res, next) => {
 
 function parseDataset() {
     const possiblePaths = [
-        path.join(__dirname, '..', 'The_only_датасет.txt'),
-        path.join(__dirname, 'The_only_датасет.txt'),
-        path.join(process.cwd(), 'The_only_датасет.txt'),
-        path.join(process.cwd(), '..', 'The_only_датасет.txt')
+        path.join(__dirname, 'dataset.txt'),
+        path.join(process.cwd(), 'dataset.txt'),
+        path.join(__dirname, '..', 'dataset.txt')
     ];
 
     for (const p of possiblePaths) {
