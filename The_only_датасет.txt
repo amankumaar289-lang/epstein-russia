@@ -64,29 +64,29 @@ d018	Вечеринка в Сен-Барте с Дорониным	2014-01	Эп�
 Российские организации
 
 id	name_en	name_ru	type	role	mentions	first_year	photo_url	bio_short
-epstein	Jeffrey Epstein	Джеффри Эпштейн	person	Financier	9999	2009	/photos/epstein_photo.jpg	Американский финансист. Центральная фигура сети.
-churkin	Vitaly Churkin	Виталий Чуркин	person	Diplomat	1213	2010	/photos/vitaly_churkin_photo.jpg	Постпред РФ при ООН (2006-2017). Ключевой контакт.
+epstein	Jeffrey Epstein	Джеффри Эпштейн	person	Financier	9999	2009	/photos/epstein_photo.jpg	Финансист.
+churkin	Vitaly Churkin	Виталий Чуркин	person	Diplomat	1213	2010	/photos/vitaly_churkin_photo.jpg	Постпред РФ при ООН.
 lavrov	Sergey Lavrov	Сергей Лавров	person	Minister	138	2014	/photos/lavrov_photo.jpg	Министр иностранных дел РФ.
-belyakov	Sergey Belyakov	Сергей Беляков	person	Official	162	2013	https://upload.wikimedia.org/wikipedia/commons/6/69/Rustam_Minnikhanov_and_Sergey_Belyakov_%282015-07-21%29_03.jpg	Бывший замминистра экономического развития РФ.
-simanovskiy	Aleksey Simanovskiy	Алексей Симановский	person	Banker	4	2014	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcHTJ_joA725r6i4rh_EoNCIqsmXxxm1ORw&s	Бывший первый зампред ЦБ РФ.
-storchak	Sergey Storchak	Сергей Сторчак	person	Official	5	2014	https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%A1%D1%82%D0%BE%D1%80%D1%87%D0%B0%D0%BA_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.jpg	Замминистра финансов РФ.
+belyakov	Sergey Belyakov	Сергей Беляков	person	Official	162	2013	https://upload.wikimedia.org/wikipedia/commons/6/69/Rustam_Minnikhanov_and_Sergey_Belyakov_%282015-07-21%29_03.jpg	Чиновник.
+simanovskiy	Aleksey Simanovskiy	Алексей Симановский	person	Banker	4	2014	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcHTJ_joA725r6i4rh_EoNCIqsmXxxm1ORw&s	Банкир.
+storchak	Sergey Storchak	Сергей Сторчак	person	Official	5	2014	https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%A1%D1%82%D0%BE%D1%80%D1%87%D0%B0%D0%BA_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.jpg	Чиновник.
 gref	German Gref	Герман Греф	person	Banker	3	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_%D0%93%D1%80%D0%B5%D1%84_%D0%BD%D0%B0_%D0%9F%D0%9C%D0%AD%D0%A4-2023_%28cropped%29.jpg/330px-%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_%D0%93%D1%80%D0%B5%D1%84_%D0%BD%D0%B0_%D0%9F%D0%9C%D0%AD%D0%A4-2023_%28cropped%29.jpg	Глава Сбербанка.
-putin	Vladimir Putin	Владимир Путин	person	President	990	2012	/photos/putin_photo.jpg	Президент Российской Федерации.
-vavilov	Andrey Vavilov	Андрей Вавилов	person	Businessman	20	2011	https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Andrey_Vavilov_%282016-11-24%29_03_%28cropped%29.jpg/330px-Andrey_Vavilov_%282016-11-24%29_03_%28cropped%29.jpg	Предприниматель, бывший замминистра финансов РФ.
-medvedev	Dmitry Medvedev	Дмитрий Медведев	person	Politician	78	2012	/photos/Medvedev_photo.jpg	Заместитель председателя Совбеза РФ.
-shoigu	Sergei Shoigu	Сергей Шойгу	person	Minister	10	2014	/photos/shoigu_photo.jpg	Секретарь Совета Безопасности РФ.
-chaly	Aleksey Chaly	Алексей Чалый	person	Politician	1	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alexey_Chaly_%28cropped%29.jpeg/330px-Alexey_Chaly_%28cropped%29.jpeg	«Народный мэр» Севастополя.
-navalny	Alexei Navalny	Алексей Навальный	person	Activist	39	2011	/photos/Navalny_photo.jpg	Российский оппозиционный лидер.
-doronin	Vladislav Doronin	Владислав Доронин	person	Developer	30	2009	https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vladislav_Doronin_2014.jpg/330px-Vladislav_Doronin_2014.jpg	Основатель Capital Group.
-drokova	Maria Drokova	Мария Дрокова	person	Investor	30	2017	/photos/maria_drokova.jpg	Венчурный инвестор.
-jagland	Thorbjorn Jagland	Турбьёрн Ягланд	person	Diplomat	85	2016	/photos/turbiern_iagland.jpg	Генсек Совета Европы (2009-2019).
-greg_brown	Greg Brown	Грег Браун	person	Analyst	15	2014	/photos/Icon_photo.jpg	Аналитик, советник Эпштейна.
-boris_nikolic	Boris Nikolic	Борис Николич	person	Investor	5	2015	/photos/Boris_Nikolic_photo.jpg	Венчурный инвестор.
-sultan_bin_sulayem	Sultan bin Sulayem	Султан бин Сулайем	person	Sovereign	10	2015	/photos/sultan-bin-sulayem_photo.jpg	Глава DP World.
-rod_larsen	Terje Rød-Larsen	Терье Род-Ларсен	person	Diplomat	50	2012	/photos/tere-ryod-larsen_photo.jpg	Директор Международного института мира (IPI).
-molodtsov	Yury Molodtsov	Юрий Молодцов	person	Assistant	3	2017	/photos/uri_molodcov.jpg	Ассистент Маши Дроковой.
-naomi_campbell	Naomi Campbell	Наоми Кэмпбелл	person	Model	15	2009	/photos/Naomi_Kampbell.jpg	Супермодель, связующее звено.
-jed_garfield	Jed Garfield	Джед Гарфилд	person	Realtor	5	2011	/photos/jed_garfield.jpg	Риелтор Эпштейна в Нью-Йорке.
+putin	Vladimir Putin	Владимир Путин	person	President	990	2012	/photos/putin_photo.jpg	Президент РФ.
+vavilov	Andrey Vavilov	Андрей Вавилов	person	Businessman	20	2011	https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Andrey_Vavilov_%282016-11-24%29_03_%28cropped%29.jpg/330px-Andrey_Vavilov_%282016-11-24%29_03_%28cropped%29.jpg	Бизнесмен.
+medvedev	Dmitry Medvedev	Дмитрий Медведев	person	Politician	78	2012	/photos/Medvedev_photo.jpg	Политик.
+shoigu	Sergei Shoigu	Сергей Шойгу	person	Minister	10	2014	/photos/shoigu_photo.jpg	Министр обороны РФ.
+chaly	Aleksey Chaly	Алексей Чалый	person	Politician	1	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alexey_Chaly_%28cropped%29.jpeg/330px-Alexey_Chaly_%28cropped%29.jpeg	Политик.
+navalny	Alexei Navalny	Алексей Навальный	person	Activist	39	2011	/photos/Navalny_photo.jpg	Активист.
+doronin	Vladislav Doronin	Владислав Доронин	person	Developer	30	2009	https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vladislav_Doronin_2014.jpg/330px-Vladislav_Doronin_2014.jpg	Девелопер.
+drokova	Maria Drokova	Мария Дрокова	person	Investor	30	2017	/photos/maria_drokova.jpg	Инвестор.
+jagland	Thorbjorn Jagland	Турбьёрн Ягланд	person	Diplomat	85	2016	/photos/turbiern_iagland.jpg	Дипломат.
+greg_brown	Greg Brown	Грег Браун	person	Analyst	15	2014	/photos/Icon_photo.jpg	Аналитик.
+boris_nikolic	Boris Nikolic	Борис Николич	person	Investor	5	2015	/photos/Boris_Nikolic_photo.jpg	Инвестор.
+sultan_bin_sulayem	Sultan bin Sulayem	Султан бин Сулайем	person	Sovereign	10	2015	/photos/sultan-bin-sulayem_photo.jpg	Глава фонда.
+rod_larsen	Terje Rød-Larsen	Терье Род-Ларсен	person	Diplomat	50	2012	/photos/tere-ryod-larsen_photo.jpg	Директор IPI.
+molodtsov	Yury Molodtsov	Юрий Молодцов	person	Assistant	3	2017	/photos/uri_molodcov.jpg	Ассистент.
+naomi_campbell	Naomi Campbell	Наоми Кэмпбелл	person	Model	15	2009	/photos/Naomi_Kampbell.jpg	Модель.
+jed_garfield	Jed Garfield	Джед Гарфилд	person	Realtor	5	2011	/photos/jed_garfield.jpg	Риелтор.
 ++++
 
 Таймлайн: year	event_ru	related_people	related_docs
