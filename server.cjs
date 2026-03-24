@@ -552,23 +552,22 @@ app.get('/api/relationships', (req, res) => {
 });
 
 // ========== РАЗДАЧА ФРОНТЕНДА ==========
-
 const frontendPath = path.join(__dirname, 'network-ui', 'dist');
+
 if (fs.existsSync(frontendPath)) {
     app.use(express.static(frontendPath));
 
-    // SPA: все не-API маршруты → index.html
-    app.get('/{*path}', (req, res) => {
+    // SPA: все остальные маршруты отдают index.html
+    app.get('*', (req, res) => {
+        // Если это запрос к API или Health, который не сработал выше - отдаем 404
         if (req.path.startsWith('/api') || req.path.startsWith('/health')) {
             return res.status(404).json({ error: 'Not found' });
         }
         res.sendFile(path.join(frontendPath, 'index.html'));
     });
-
     console.log(`✓ Фронтенд: ${frontendPath}`);
 } else {
     console.log(`⚠ Фронтенд не найден: ${frontendPath}`);
-    console.log('  Собери его: cd network-ui && npm run build');
 }
 
 // ========== ГЛОБАЛЬНАЯ ОБРАБОТКА ОШИБОК ==========
