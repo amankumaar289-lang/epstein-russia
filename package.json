@@ -1,6 +1,7 @@
 {
   "name": "epstein-russian-network",
   "version": "1.0.0",
+  "description": "Эпштейн — Российский след. Визуализация связей.",
   "scripts": {
     "start": "node server.cjs",
     "build": "cd network-ui && npm install && npm run build"
