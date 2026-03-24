@@ -31,15 +31,34 @@ function parseTSV(text) {
     if (!text) return { headers: [], rows: [] };
     const lines = text.replace(/^\uFEFF/, '').split('\n').map(l => l.trim()).filter(l => l);
     if (lines.length < 2) return { headers: [], rows: [] };
-    let headerLine = lines[0];
+
+    // ИЩЕМ НАСТОЯЩИЙ ЗАГОЛОВОК (пропускаем слова типа "Связи" или "Документы")
+    let headerIdx = -1;
+    for (let i = 0; i < Math.min(lines.length, 15); i++) {
+        const lower = lines[i].toLowerCase();
+        if (lower.includes('\t') && (lower.includes('id') || lower.includes('year') || lower.includes('from') || lower.includes('name'))) {
+            headerIdx = i;
+            break;
+        }
+    }
+    if (headerIdx === -1) {
+        if (lines[0].includes('\t')) headerIdx = 0;
+        else return { headers: [], rows: [] };
+    }
+
+    let headerLine = lines[headerIdx];
     if (headerLine.includes(':')) headerLine = headerLine.split(':')[1].trim();
+
     const headers = headerLine.split('\t').map(h => h.trim());
-    const rows = lines.slice(1).map(line => {
-        const cells = line.split('\t');
+    const rows = [];
+    for (let i = headerIdx + 1; i < lines.length; i++) {
+        const cells = lines[i].split('\t');
+        if (cells.length < 2) continue;
         const row = {};
-        headers.forEach((h, i) => { row[h] = (cells[i] || '').trim(); });
-        return row;
-    }).filter(r => r.id);
+        headers.forEach((h, idx) => { row[h] = (cells[idx] || '').trim(); });
+        // Добавляем строку только если есть ID или Year
+        if (row.id || row.year) rows.push(row);
+    }
     return { headers, rows };
 }
 
