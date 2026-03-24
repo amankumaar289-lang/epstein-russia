@@ -4,8 +4,7 @@
   "description": "Эпштейн — Российский след. Визуализация связей.",
   "scripts": {
     "start": "node server.cjs",
-    "build": "cd network-ui && npm install && npm run build",
-    "postinstall": "cd network-ui && npm install && npm run build"
+    "build": "cd network-ui && npm install && npm run build"
   },
   "dependencies": {
     "cors": "^2.8.5",
