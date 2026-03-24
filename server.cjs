@@ -28,7 +28,6 @@ app.use((req, res, next) => {
 });
 
 // ========== ПАРСЕР ДАТАСЕТА ==========
-
 function parseDataset() {
     const possiblePaths = [
         path.join(__dirname, 'dataset.txt'),
@@ -44,8 +43,8 @@ function parseDataset() {
         }
     }
 
-    console.error('КРИТИЧЕСКАЯ ОШИБКА: Файл The_only_датасет.txt не найден ни по одному из путей.');
-    process.exit(1);
+    console.error('ОШИБКА: dataset.txt не найден');
+    return { relations: [], documents: [], persons: [], timeline: [] };
 }
 
 function parseWithFilePath(filePath) {
@@ -584,13 +583,11 @@ app.use((err, req, res, next) => {
 
 // ========== ЗАПУСК ==========
 
-app.listen(PORT, '0.0.0.0', () => {
-    console.log('');
-    console.log('══════════════════════════════════════════════════');
-    console.log(`  🚀 Сервер запущен: http://localhost:${PORT}`);
-    console.log(`  API:        http://localhost:${PORT}/api/stats`);
-    console.log(`  Граф:       http://localhost:${PORT}/api/graph`);
-    console.log(`  Фронтенд:  http://localhost:${PORT}/`);
-    console.log('══════════════════════════════════════════════════');
-    console.log('');
-});
+// Локально — слушаем порт, на Vercel — экспортируем
+if (process.env.VERCEL) {
+    module.exports = app;
+} else {
+    app.listen(PORT, '0.0.0.0', () => {
+        console.log(`🚀 Сервер запущен: http://localhost:${PORT}`);
+    });
+}
