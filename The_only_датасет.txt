@@ -65,7 +65,7 @@ d018	Вечеринка в Сен-Барте с Дорониным	2014-01	Эп�
 
 id	name_en	name_ru	type	role	mentions	first_year	photo_url	bio_short
 epstein	Jeffrey Epstein	Джеффри Эпштейн	person	Financier	9999	2009	/photos/epstein_photo.jpg	Американский финансист. Центральная фигура сети.
-churkin	Vitaly Churkin	Виталий Чуркин	person	Diplomat	1213	2010	https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vitaly_Churkin_2013-09-24.jpg/330px-Vitaly_Churkin_2013-09-24.jpg	Постпред РФ при ООН (2006-2017). Ключевой контакт.
+churkin	Vitaly Churkin	Виталий Чуркин	person	Diplomat	1213	2010	/photos/vitaly_churkin_photo.jpg	Постпред РФ при ООН (2006-2017). Ключевой контакт.
 lavrov	Sergey Lavrov	Сергей Лавров	person	Minister	138	2014	/photos/lavrov_photo.jpg	Министр иностранных дел РФ.
 belyakov	Sergey Belyakov	Сергей Беляков	person	Official	162	2013	https://upload.wikimedia.org/wikipedia/commons/6/69/Rustam_Minnikhanov_and_Sergey_Belyakov_%282015-07-21%29_03.jpg	Бывший замминистра экономического развития РФ.
 simanovskiy	Aleksey Simanovskiy	Алексей Симановский	person	Banker	4	2014	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcHTJ_joA725r6i4rh_EoNCIqsmXxxm1ORw&s	Бывший первый зампред ЦБ РФ.
@@ -74,17 +74,17 @@ gref	German Gref	Герман Греф	person	Banker	3	2014	https://upload.wikim
 putin	Vladimir Putin	Владимир Путин	person	President	990	2012	/photos/putin_photo.jpg	Президент Российской Федерации.
 vavilov	Andrey Vavilov	Андрей Вавилов	person	Businessman	20	2011	https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Andrey_Vavilov_%282016-11-24%29_03_%28cropped%29.jpg/330px-Andrey_Vavilov_%282016-11-24%29_03_%28cropped%29.jpg	Предприниматель, бывший замминистра финансов РФ.
 medvedev	Dmitry Medvedev	Дмитрий Медведев	person	Politician	78	2012	/photos/Medvedev_photo.jpg	Заместитель председателя Совбеза РФ.
-shoigu	Sergei Shoigu	Сергей Шойгу	person	Minister	10	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sergei_Shoigu_%282024-05-09%29.jpg/330px-Sergei_Shoigu_%282024-05-09%29.jpg	Секретарь Совета Безопасности РФ.
+shoigu	Sergei Shoigu	Сергей Шойгу	person	Minister	10	2014	/photos/shoigu_photo.jpg	Секретарь Совета Безопасности РФ.
 chaly	Aleksey Chaly	Алексей Чалый	person	Politician	1	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alexey_Chaly_%28cropped%29.jpeg/330px-Alexey_Chaly_%28cropped%29.jpeg	«Народный мэр» Севастополя.
 navalny	Alexei Navalny	Алексей Навальный	person	Activist	39	2011	/photos/Navalny_photo.jpg	Российский оппозиционный лидер.
 doronin	Vladislav Doronin	Владислав Доронин	person	Developer	30	2009	https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vladislav_Doronin_2014.jpg/330px-Vladislav_Doronin_2014.jpg	Основатель Capital Group.
 drokova	Maria Drokova	Мария Дрокова	person	Investor	30	2017	/photos/maria_drokova.jpg	Венчурный инвестор.
-jagland	Thorbjorn Jagland	Турбьёрн Ягланд	person	Diplomat	85	2016	https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Thorbjorn_Jagland_2015.jpg/330px-Thorbjorn_Jagland_2015.jpg	Генсек Совета Европы (2009-2019).
-greg_brown	Greg Brown	Грег Браун	person	Analyst	15	2014	https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Greg_Brown_%28businessman%29.jpg/330px-Greg_Brown_%28businessman%29.jpg	Аналитик, советник Эпштейна.
+jagland	Thorbjorn Jagland	Турбьёрн Ягланд	person	Diplomat	85	2016	/photos/turbiern_iagland.jpg	Генсек Совета Европы (2009-2019).
+greg_brown	Greg Brown	Грег Браун	person	Analyst	15	2014	/photos/Icon_photo.jpg	Аналитик, советник Эпштейна.
 boris_nikolic	Boris Nikolic	Борис Николич	person	Investor	5	2015	/photos/Boris_Nikolic_photo.jpg	Венчурный инвестор.
-sultan_bin_sulayem	Sultan bin Sulayem	Султан бин Сулайем	person	Sovereign	10	2015	https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sultan_Ahmed_bin_Sulayem.jpg/330px-Sultan_Ahmed_bin_Sulayem.jpg	Глава DP World.
-rod_larsen	Terje Rød-Larsen	Терье Род-Ларсен	person	Diplomat	50	2012	https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Terje_R%C3%B8d-Larsen_%28cropped%29.jpg/330px-Terje_R%C3%B8d-Larsen_%28cropped%29.jpg	Директор Международного института мира (IPI).
-molodtsov	Yury Molodtsov	Юрий Молодцов	person	Assistant	3	2017		Ассистент Маши Дроковой.
+sultan_bin_sulayem	Sultan bin Sulayem	Султан бин Сулайем	person	Sovereign	10	2015	/photos/sultan-bin-sulayem_photo.jpg	Глава DP World.
+rod_larsen	Terje Rød-Larsen	Терье Род-Ларсен	person	Diplomat	50	2012	/photos/tere-ryod-larsen_photo.jpg	Директор Международного института мира (IPI).
+molodtsov	Yury Molodtsov	Юрий Молодцов	person	Assistant	3	2017	/photos/uri_molodcov.jpg	Ассистент Маши Дроковой.
 naomi_campbell	Naomi Campbell	Наоми Кэмпбелл	person	Model	15	2009	/photos/Naomi_Kampbell.jpg	Супермодель, связующее звено.
 jed_garfield	Jed Garfield	Джед Гарфилд	person	Realtor	5	2011	/photos/jed_garfield.jpg	Риелтор Эпштейна в Нью-Йорке.
 
